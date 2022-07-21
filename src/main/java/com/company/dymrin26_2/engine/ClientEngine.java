@@ -1,4 +1,4 @@
-package com.company.dymrin26_2;
+package com.company.dymrin26_2.engine;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
